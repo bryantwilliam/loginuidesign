@@ -5,4 +5,4 @@ Practicing UI design for a login screen with animations
 ## Preview
 
 
-<img src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300"/>
+<img src="https://github.com/bryantwilliam/loginuidesign/blob/master/screen_recording.gif" width="200"/>
