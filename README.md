@@ -1,6 +1,6 @@
 # loginuidesign
 
-Practicing UI design for a login screen with animations
+Practicing Flutter UI design for a login screen with animations
 
 ## Preview
 
